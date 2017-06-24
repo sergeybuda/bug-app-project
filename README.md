@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Bug-App-Project
+## Bug project
 
 *Default Structure for A Basic Project*
 
